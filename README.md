@@ -1,3 +1,2 @@
-print("Hey, new code in the repo-sitory-this is sick!")
 ## Day 1: StudySprint
 Getting the hang of this new UI, after all my expirience with CodeHS, this is quite a change. I am excited to see what this new platform has to offer and how it can enhance my coding skills; wow, even the AI is rather advanced, it's like Google's predictive search but better...
